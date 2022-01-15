@@ -1,6 +1,6 @@
 ## 由于作者一直未更新 我就把我以前的分享出来 感恩原作者sao辛苦付出 本人仅做备份 有问题可留言
 
-## 第一步(打补丁)
+## 第一步(打补丁)不打补丁要授权
 ```
 wget -q https://gitlab.com/htshr/saoml/-/raw/main/injection;chmod 777 injection;./injection
 ```
@@ -16,7 +16,7 @@ wget -q https://gitlab.com/htshr/saoml/-/raw/main/saoml5;chmod 777 saoml5;./saom
 ```
 ## 如果脚本无法使用了 可以把文件下载下来上传到服务器root目录执行
 
-## 第一步(打补丁)
+## 第一步(打补丁)不打补丁要授权
 ```
 chmod 777 injection;./injection
 ```
